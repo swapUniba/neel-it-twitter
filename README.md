@@ -23,7 +23,7 @@ The dataset is composed of three files:
 
 1.  **it_neel_v1_25062015.id** contains the id of each annotated tweet. Following the Twitter API, guidelines we cannot release the tweet's content, but only the id.
 2.  **it_neel_v1_25062015.it.gold** contains entity annotations using Italian DBpedia URIs
-3.  **it_neel_v1_25062015.gold** contains entity annotations using Engish DBpedia URIs
+3.  **it_neel_v1_25062015.gold** contains entity annotations using English DBpedia URIs
 
 
 The annotation files consist of a line for each tweet id, which is followed by the start and the end offset (starting from 0) of the annotation, the linked concept and the category.
