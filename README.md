@@ -20,6 +20,7 @@ This first version of the dataset was annotated by only one annotator, and compr
 
 
 The dataset is composed of three files:
+
 1.  **it_neel_v1_25062015.id** contains the id of each annotated tweet. Following the Twitter API, guidelines we cannot release the tweet's content, but only the id.
 2.  **it_neel_v1_25062015.it.gold** contains entity annotations using Italian DBpedia URIs
 3.  **it_neel_v1_25062015.gold** contains entity annotations using Engish DBpedia URIs
